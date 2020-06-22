@@ -1,3 +1,4 @@
 # Projects
 
-project on real data skill developed on the go.
+Data science and data analytics Project on real data. 
+Skill developed list in each project description.
