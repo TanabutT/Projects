@@ -2,6 +2,8 @@
 
 Data Wrangling
 
+Data Visualization
+
 Data Cleaning
 
 Feature selection
