@@ -18,12 +18,4 @@ https://openpolicing.stanford.edu/img/mp.jpg
 GitHub ช่วง prepare: https://gist.github.com/TanabutT/83452915139c2e0069811cd745d1f431#file-policedataprepare-ipynb และ https://gist.github.com/TanabutT/0a2e334ab8ad27bbfae56abea23c2f1c
 Google collab ช่วง prepare: https://drive.google.com/file/d/1VwSjFmoqzpWG_X-F8W8lYSrT2dd9I7wS/view?usp=sharing
 Google collab ช่วง analysis : https://drive.google.com/file/d/1VwSjFmoqzpWG_X-F8W8lYSrT2dd9I7wS/view?usp=sharing
-Problem
-Are traffic stops prone to racial bias?
-เนื่องจากการปฏิบัติงานของเจ้าหน้าที่ตำรวจในอเมริกานั้น ต้อง interact กับ ผู้คนหลายเชื้อชาติ หลายกลุ่มชาติพันธุ์ ซึ่งทำให้เกิด bias ขึ้นระหว่างทำหน้าที่โดยไม่รู้ตัว dataset นี้เป็นการศึกษา ของ Stanford ที่ต้องการจะ improve interactions between police and the public เราจึงมาวิเคราะห์กันว่าจะได้อะไรกันบ้างจากชุดข้อมูลนี้
-คำถามที่จะต้องการหา
-คนส่วนใหญ่โดนเรียกด้วยสาเหตุอะไร
-คนที่โดนตำรวจเรียก มีใครบ้าง ผู้หญิงผู้ชาย คนผิวขาว ผิวดำ เชื้อชาติอะไรบ้าง กลุ่มไหนเป็นเท่าไร
-คนที่โดนตำรวจเรียก โดนค้นตัว ค้นรถ หรือไม่ มีแนวโน้มว่า gender or race ใดไหมที่โดนมากกว่าปกติ หา bias
-มีความเชื่อมโยงหรือไม่ระหว่าง race กับการ โดนจับในที่สุด
-มีความเชื่อมโยงหรือไม่ระหว่าง race กับการ ค้นหาเจอของผิด กฏหมาย
+
