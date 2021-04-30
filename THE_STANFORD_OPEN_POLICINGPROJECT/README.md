@@ -19,3 +19,5 @@ GitHub ช่วง prepare: https://gist.github.com/TanabutT/83452915139c2e0069
 Google collab ช่วง prepare: https://drive.google.com/file/d/1VwSjFmoqzpWG_X-F8W8lYSrT2dd9I7wS/view?usp=sharing
 Google collab ช่วง analysis : https://drive.google.com/file/d/1VwSjFmoqzpWG_X-F8W8lYSrT2dd9I7wS/view?usp=sharing
 
+THE STANFORDOPEN POLICINGPROJECT part 3 (final)
+
